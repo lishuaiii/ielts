@@ -1,5 +1,5 @@
 ### Describe an artist or entertainer you admire.
-    You should say:
+  You should say:
 * Who they are and what they do
 * How they became successful
 * How you found out about them
