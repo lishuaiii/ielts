@@ -1,6 +1,9 @@
 ### YOU
 * Describe yourself.
-
+> My name is Li Shuai, and Ross is my English name. I born in Xi'an which is an ancient city, I lived there for 22 years, 
+> then I moved to Beijing for work. I'm the only child of my parents, as you know, casued by the China's damned policy - birth control.
+> and I work at an E-commerce firm - Alibaba.com, and one of its business unit, C2C mode company, Taobao.com is very popular in China.
+> and I am a computer programmer which was my favorite job, and now, I want to be a travller, walking around the world, that's why I learn English.
 ### FAMILY
 * Describe your family?
 * Do you have a large or small family?
