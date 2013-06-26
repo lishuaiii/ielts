@@ -1,6 +1,7 @@
 ### YOU
 * Describe yourself.
-* FAMILY
+
+### FAMILY
 * Describe your family?
 * Do you have a large or small family?
 * How much time do you spend with your family?
