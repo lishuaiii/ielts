@@ -1,5 +1,4 @@
 ### YOU
-* Describe yourself.
 
 > My name is Li Shuai, and Ross is my English name. I born in Xi'an which is an ancient city, I lived there for 22 years, 
 > then I moved to Beijing for work. I'm the only child of my parents, as you know, casued by the China's damned policy - birth control.
@@ -7,17 +6,10 @@
 > and I am a computer programmer which was my favorite job, and now, I want to be a travller, walking around the world, that's why I learn English.
 
 ### FAMILY
-* Describe your family?
 
 > My family members include my mum, my dad, and me. as what I said, I'm the only one child of my parents, and I'm available.
 > My parents have lazy lives, they totally enjoy themselves life after work. I admire them and respect them and love them, and vice versa. 
 > And now I live separated with them, and I miss them very much, vice versa.
-
-* Do you have a large or small family?
-* How much time do you spend with your family?
-* What do you like to do together as a family?
-* Do you get along well with your family?
-* Are people in your country generally close to their families?
 
 ### WORK
 * What do you do?
