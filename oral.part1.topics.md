@@ -8,6 +8,11 @@
 
 ### FAMILY
 * Describe your family?
+
+> My family members include my mum, my dad, and me. as what I said, I'm the only one child of my parents, and I'm available.
+> My parents have lazy lives, they totally enjoy themselves life after work. I admire them and respect them and love them, and vice versa. 
+> And now I live seperated with them, and I miss them very much, vice versa.
+
 * Do you have a large or small family?
 * How much time do you spend with your family?
 * What do you like to do together as a family?
