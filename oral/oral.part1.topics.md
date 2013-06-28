@@ -1,37 +1,27 @@
 ### YOU
 
-> My name is Li Shuai, and Ross is my English name. I born in Xi'an which is an ancient city, I lived there for 22 years, 
-> then I moved to Beijing for work. I'm the only child of my parents, as you know, casued by the China's damned policy - birth control.
-> and I work at an E-commerce firm - Alibaba.com, and one of its business unit, C2C mode company, Taobao.com is very popular in China.
-> and I am a computer programmer which was my favorite job, and now, I want to be a travller, walking around the world, that's why I learn English.
+> My name is Li Shuai, and Ross is my English name which comes from the popular tv seriers "friends". I was born in Xi'an which is an ancient city,
+> and now, I live in beijing and work at Alibaba as a computer programmer.
 
 ### FAMILY
 
-> My family members include my mum, my dad, and me. as what I said, I'm the only one child of my parents, and I'm available.
-> My parents have lazy lives, they totally enjoy themselves life after work. I admire them and respect them and love them, and vice versa. 
-> And now I live separated with them, and I miss them very much, vice versa.
+> Let me introduce my family, my dad is strong, he knows so many things in so many aeras, more than I could learn in all my life. 
+> He offered us protection, education and love. He is an engineer, he loves his job. my mum only knows giving love, love and love.
+> she will prepare breakfast for us everyday, she was an accountant and retired last year. 
+> I'm the only child of my parents, they give their love to me as much as they can, and I love them, too.
 
 ### WORK
-* What do you do?
-* What are your responsibilities?
-* How many hours do you work each day?
-* Do you enjoy your work?
-* Is there some other kind of work you would rather do?
-* If you could change your job or profession, what would you do?
-* Describe the process of getting a job in your country.
-* Describe the company or organization you work for.
-* What is your position?
-* What do you like about your job?
-* What do you dislike about your job?
+
+> When I was a child, due to my father's job, I first time touch the computer in his office, and later, I had my own PC.
+> Form then on, I'm deeply in love with it. I think I'm very luck, after graduation from university, I has an job in Taobao 
+> which is an unit business of Alibaba. My company has a great furture, it is in the top three Internet companies in China, No.12 in global.
+> And I think I will resign, beacuse travller is my favorite job now, to go around the world is my dream, and that's also why I learn English.
 
 ### EDUCATION
-* Describe your education.
-* What kind of school did you go to as a child?
-* Did you go to a co-educational school?
-* What was your favourite subject as a child?
-* Who was your favourite teacher?
-* What is the education system like in your country?
-* Do you think your country has an effective education system?
+
+> I graudated from Xi'an university of post and telecommunication, it's a small college but good at computer and telecommunication.
+> Of course, my subject is computer. I learned program during my college years, and I was a major member of a program clud in my college, 
+> it named "XY linuxer", "XY" is the abbreviation of my college's name. and also, I was a player of my college's basketball team.
 
 ### STUDIES
 * What are you studying now?
