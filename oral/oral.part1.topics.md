@@ -24,23 +24,12 @@
 > it named "XY linuxer", "XY" is the abbreviation of my college's name. and also, I was a player of my college's basketball team.
 
 ### STUDIES
-* What are you studying now?
-* What is your area of specialization?
+
+> First of all, English is my most important studying area now, I spend four hours on English writing, speaking, listening each day.
+> Second, software continuous integration is my work studying area, it's a popular theory in software engineering, and its main aim is to prevent integrate problems. 
 
 ### HOMETOWN
-* Describe your hometown.
-* What’s special about it?
-* Where is your hometown located?
-* Is it easy to travel around your hometown?
-* What is it known for?
-* What do people in your town do?
-* What are the main industries in your hometown?
-* What problems face your hometown?
-* What languages are spoken in your hometown?
-* What are the advantages of living in your hometown?
-* What are some problems faced by your hometown?
-* Compare your hometown with another city.
-* What are some environmental problems faced by your hometown?
+> My hometown Xi'an is an ancient city, was captial of 13 dynasties. She was named Chang'an means lasting peace and stability.
 
 ### WEATHER
 * What’s the weather like in your country?
