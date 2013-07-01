@@ -29,7 +29,11 @@
 > Second, software continuous integration is my work studying area, it's a popular theory in software engineering, and its main aim is to prevent integrate problems. 
 
 ### HOMETOWN
+
 > My hometown Xi'an is an ancient city, was captial of 13 dynasties. She was named Chang'an means lasting peace and stability.
+> However I think she is outdate now, not only the economy is far away from other big cities in China, 
+> but also the local mind is too conservative, many of the them even include my friends often think Xi'an leads in many area in China,
+> consider that their styles are fashion, their incomes are not bad. But when I lived in Beijing away from Xi'an, I know that's not truth.
 
 ### WEATHER
 * What’s the weather like in your country?
@@ -128,14 +132,7 @@
 * Which is the most popular place to shop in your hometown?
 
 ### SPORTS
-* Do you like sports?
-* Do you enjoy watching sports?
-* Do you enjoy participating in any sports?
-* Which sports are most popular in your country?
-* What’s your favourite sport/
-* When did you first become interested in sports?
-* How often do you participate in sports?
-* What equipment do you need for your favourite sport?
+I like outdoor sports very much, such as skiing, diving and so on. Eevey winter, I will ski several times, and I ski with  
 
 ### FOOD
 * What are some of your favourite foods?
